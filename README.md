@@ -1,4 +1,4 @@
-#Conflict-Resolution
+#Conflict-Resolution take 2
 
  ## This is a subheading created on GitHub
 
